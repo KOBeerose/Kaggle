@@ -1,0 +1,10 @@
+*.vscode/*
+*submit*
+env
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+submission.csv
+.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
