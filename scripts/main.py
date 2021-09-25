@@ -1,8 +1,5 @@
 '''
-If you find this useful, please give a thumbs up!
-
-Thanks!
-- Claire & Alhan
+Credits to Claire & Alhan
 '''
 
 # External libraries
