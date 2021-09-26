@@ -6,5 +6,5 @@ output/*
 input/*
 !input/.gitkeep
 submission.csv
-.ipynb_checkpoints/*
-notebooks/.ipynb_checkpoints/*
+*ipynb_checkpoints/*
+
