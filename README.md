@@ -1,12 +1,19 @@
 # Kaggle-Competitions
 This repository will contain that notebooks that I create thoughout my journey in Kaggle
 
-**To get started:**
+**<h2>To get started:</h2>**
 
+Creating an isolated Python environment
+```
+virtualenv env
 ```
 
-virtualenv env
+Activating the environment
+```
 source env/bin/activate
-pip install -r requirements.txt
+```
 
+Installing required Packages
+```
+pip install -r requirements.txt
 ```
