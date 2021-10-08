@@ -22,10 +22,10 @@ unzip titanic.zip && trash titanic.zip
 <h5>For Windows:</h5>
 
 ```
-PowerShell Expand-Archive -Path "titanic.zip" & del /f titanic.zip
+PowerShell Expand-Archive -Path "titanic.zip" -DestinationPath ./ & del /f titanic.zip
 ```
 
 Lunching the notebook
 ```
-jupyter notebook ..\..\Titanic\getting-started-with-titanic.ipynb
+jupyter notebook "..\..\Titanic\getting-started-with-titanic.ipynb"
 ```
